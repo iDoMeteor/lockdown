@@ -1,5 +1,5 @@
-# [Lockdown](https://boldleadsdevelopment.github.io//lockdown)
-## v0.1 PRE-BETA
+# [Lockdown](https://idometeor.github.io/lockdown)
+## v0.1 BETA
 
 
 ## Synopsis
